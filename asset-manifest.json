@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/httpsPract/static/css/main.99967389.chunk.css",
-    "main.js": "/httpsPract/static/js/main.609cbb60.chunk.js",
-    "main.js.map": "/httpsPract/static/js/main.609cbb60.chunk.js.map",
-    "runtime-main.js": "/httpsPract/static/js/runtime-main.c1a6da75.js",
-    "runtime-main.js.map": "/httpsPract/static/js/runtime-main.c1a6da75.js.map",
-    "static/js/2.c2ec4765.chunk.js": "/httpsPract/static/js/2.c2ec4765.chunk.js",
-    "static/js/2.c2ec4765.chunk.js.map": "/httpsPract/static/js/2.c2ec4765.chunk.js.map",
-    "index.html": "/httpsPract/index.html",
-    "precache-manifest.c5906dc98deec57214a412ea5cf07f6d.js": "/httpsPract/precache-manifest.c5906dc98deec57214a412ea5cf07f6d.js",
-    "service-worker.js": "/httpsPract/service-worker.js",
-    "static/css/main.99967389.chunk.css.map": "/httpsPract/static/css/main.99967389.chunk.css.map",
-    "static/js/2.c2ec4765.chunk.js.LICENSE.txt": "/httpsPract/static/js/2.c2ec4765.chunk.js.LICENSE.txt",
-    "static/js/main.609cbb60.chunk.js.LICENSE.txt": "/httpsPract/static/js/main.609cbb60.chunk.js.LICENSE.txt"
+    "main.css": "/starWarApi/static/css/main.99967389.chunk.css",
+    "main.js": "/starWarApi/static/js/main.609cbb60.chunk.js",
+    "main.js.map": "/starWarApi/static/js/main.609cbb60.chunk.js.map",
+    "runtime-main.js": "/starWarApi/static/js/runtime-main.20bf3dc8.js",
+    "runtime-main.js.map": "/starWarApi/static/js/runtime-main.20bf3dc8.js.map",
+    "static/js/2.c2ec4765.chunk.js": "/starWarApi/static/js/2.c2ec4765.chunk.js",
+    "static/js/2.c2ec4765.chunk.js.map": "/starWarApi/static/js/2.c2ec4765.chunk.js.map",
+    "index.html": "/starWarApi/index.html",
+    "precache-manifest.483e5063ed814ccfff20133e39170f88.js": "/starWarApi/precache-manifest.483e5063ed814ccfff20133e39170f88.js",
+    "service-worker.js": "/starWarApi/service-worker.js",
+    "static/css/main.99967389.chunk.css.map": "/starWarApi/static/css/main.99967389.chunk.css.map",
+    "static/js/2.c2ec4765.chunk.js.LICENSE.txt": "/starWarApi/static/js/2.c2ec4765.chunk.js.LICENSE.txt",
+    "static/js/main.609cbb60.chunk.js.LICENSE.txt": "/starWarApi/static/js/main.609cbb60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1a6da75.js",
+    "static/js/runtime-main.20bf3dc8.js",
     "static/js/2.c2ec4765.chunk.js",
     "static/css/main.99967389.chunk.css",
     "static/js/main.609cbb60.chunk.js"
